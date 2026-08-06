@@ -1,8 +1,8 @@
 #' A function that returns its input unchanged
 #'
-#' @param x Any object
-#' @return The same object, unchanged
+#' @param x 
+#' @return 
 #' @export
 none_transform <- function(x) {
-  x
+  NA
 }
